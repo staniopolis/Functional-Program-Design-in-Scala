@@ -1,0 +1,47 @@
+[info] Packaging D:\Scala\Projects\streams\target\scala-2.13\progfun2-streams-without-resources_2.13-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	streams\untitled.sc
+[debug] 	  D:\Scala\Projects\streams\target\scala-2.13\classes\streams\untitled.sc
+[debug] 	streams\StringParserTerrain.class
+[debug] 	  D:\Scala\Projects\streams\target\scala-2.13\classes\streams\StringParserTerrain.class
+[debug] 	streams
+[debug] 	  D:\Scala\Projects\streams\target\scala-2.13\classes\streams
+[debug] 	streams\Bloxorz$delayedInit$body.class
+[debug] 	  D:\Scala\Projects\streams\target\scala-2.13\classes\streams\Bloxorz$delayedInit$body.class
+[debug] 	streams\InfiniteTerrain.class
+[debug] 	  D:\Scala\Projects\streams\target\scala-2.13\classes\streams\InfiniteTerrain.class
+[debug] 	streams\GameDef.class
+[debug] 	  D:\Scala\Projects\streams\target\scala-2.13\classes\streams\GameDef.class
+[debug] 	streams\GameDef$Block$.class
+[debug] 	  D:\Scala\Projects\streams\target\scala-2.13\classes\streams\GameDef$Block$.class
+[debug] 	streams\Solver.class
+[debug] 	  D:\Scala\Projects\streams\target\scala-2.13\classes\streams\Solver.class
+[debug] 	streams\GameDef$Block.class
+[debug] 	  D:\Scala\Projects\streams\target\scala-2.13\classes\streams\GameDef$Block.class
+[debug] 	streams\Bloxorz$Level.class
+[debug] 	  D:\Scala\Projects\streams\target\scala-2.13\classes\streams\Bloxorz$Level.class
+[debug] 	streams\Bloxorz$.class
+[debug] 	  D:\Scala\Projects\streams\target\scala-2.13\classes\streams\Bloxorz$.class
+[debug] 	streams\GameDef$Move.class
+[debug] 	  D:\Scala\Projects\streams\target\scala-2.13\classes\streams\GameDef$Move.class
+[debug] 	streams\GameDef$Up$.class
+[debug] 	  D:\Scala\Projects\streams\target\scala-2.13\classes\streams\GameDef$Up$.class
+[debug] 	streams\GameDef$Pos.class
+[debug] 	  D:\Scala\Projects\streams\target\scala-2.13\classes\streams\GameDef$Pos.class
+[debug] 	streams\Bloxorz$InfiniteLevel$.class
+[debug] 	  D:\Scala\Projects\streams\target\scala-2.13\classes\streams\Bloxorz$InfiniteLevel$.class
+[debug] 	streams\Bloxorz$Level1$.class
+[debug] 	  D:\Scala\Projects\streams\target\scala-2.13\classes\streams\Bloxorz$Level1$.class
+[debug] 	streams\GameDef$Pos$.class
+[debug] 	  D:\Scala\Projects\streams\target\scala-2.13\classes\streams\GameDef$Pos$.class
+[debug] 	streams\GameDef$Right$.class
+[debug] 	  D:\Scala\Projects\streams\target\scala-2.13\classes\streams\GameDef$Right$.class
+[debug] 	streams\Bloxorz.class
+[debug] 	  D:\Scala\Projects\streams\target\scala-2.13\classes\streams\Bloxorz.class
+[debug] 	streams\GameDef$Left$.class
+[debug] 	  D:\Scala\Projects\streams\target\scala-2.13\classes\streams\GameDef$Left$.class
+[debug] 	streams\GameDef$Down$.class
+[debug] 	  D:\Scala\Projects\streams\target\scala-2.13\classes\streams\GameDef$Down$.class
+[debug] 	streams\Bloxorz$Level0$.class
+[debug] 	  D:\Scala\Projects\streams\target\scala-2.13\classes\streams\Bloxorz$Level0$.class
+[info] Done packaging.
